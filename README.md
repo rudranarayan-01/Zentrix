@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Setup
 #### 1. Clone the Repository:
 ```sh
-git clone https://github.com/your-username/social-media-mern.git
+git clone https://github.com/rudranarayan-01/Zentrix
 cd social-media-mern
 ```
 
